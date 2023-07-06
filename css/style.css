@@ -21,11 +21,11 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background-image: linear-gradient(to bottom, rgb(228, 209, 209), rgb(152, 171, 202))
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Jazz LET', fantasy;
   color: #fff;
 }
 
